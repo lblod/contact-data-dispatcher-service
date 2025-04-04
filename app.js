@@ -11,8 +11,7 @@ import {
   moveSubjectDataToDestinationGraphs,
   getRelatedSubjectsForOrganization,
   isSubjectPublicAfterAdditionalFilters,
-  getSubjectsToRedispatchToOrgGraph,
-  getSubjectsToRedispatchToPublicGraph
+  getSubjectsToRedispatchToOrgGraph
 } from "./lib/queries";
 import {
   dispatchToOrgGraphsConfig,
