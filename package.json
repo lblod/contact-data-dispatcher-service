@@ -1,6 +1,6 @@
 {
   "name": "contact-data-dispatcher-service",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Microservice moves around data of app-contactgegevens-loket to correct org graph.",
   "repository": {
     "type": "git",
